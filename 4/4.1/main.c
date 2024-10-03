@@ -14,7 +14,7 @@ void main(void)
 
 
         CUB= cubo ();       //llamada a la funcion cubo//
-    printf("\nEl cubo de %d es:  %d , I, CUB" );
+    printf("\nEl cubo de %d es:  %d", I, CUB );
     }
 }
 
